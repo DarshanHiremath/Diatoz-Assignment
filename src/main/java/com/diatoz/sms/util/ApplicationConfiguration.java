@@ -21,7 +21,7 @@ public class ApplicationConfiguration {
 				"### The documentation provides the detailed information of a Student-Management-System RESTful service."
 						+ " The API deals with User, Test and Test_Scores."
 						+ " User will be able to register with either of Admin,Teacher or Student role."
-						+ " <br>Tech-Stack - `Spring Boot` `Spring Data JPA` `MongoDB-Database` `Spring Security - for authorization`"
+						+ " <br>Tech-Stack - `Spring Boot` `Spring Data MongoDB` `MongoDB-Database` `Spring Security - for authorization`"
 						+ " `JWT - for Authentication`.");
 	}
 
